@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arushi Gupta
 
-🌍 Based in Munich, Germany &mdash; results-driven **DevOps Engineer** with 7+ years of experience automating, deploying, and maintaining scalable, secure systems.
+🌍 Based in Munich, Germany &mdash; results-driven **DevOps Engineer** with experience in automating, deploying, and maintaining scalable, secure systems.
 
 ---
 
@@ -12,7 +12,7 @@ I'm passionate about building robust cloud infrastructure and streamlining workf
 
 ## 🛠️ Skills & Technologies
 
-- **Cloud Platforms:** AWS, Microsoft Azure  
+- **Cloud Platforms:** GCP, AWS, Microsoft Azure  
 - **Containers & Orchestration:** Docker, Kubernetes  
 - **Infrastructure as Code:** Terraform, Ansible  
 - **CI/CD & Automation:** Jenkins, GitHub Actions, Runbook Automation  
@@ -29,7 +29,7 @@ I'm passionate about building robust cloud infrastructure and streamlining workf
 
 ## 💡 What I Do
 
-- Architect and automate secure cloud infrastructure (AWS, Azure)
+- Architect and automate secure cloud infrastructure (GCP, AWS, Azure)
 - Implement Infrastructure as Code (Terraform, Ansible)
 - Build, deploy, and monitor CI/CD pipelines (Jenkins, GitHub Actions)
 - Lead business analysis and process optimization for DevOps solutions
