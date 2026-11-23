@@ -1,62 +1,33 @@
-# 👋 Hi, I'm Arushi Gupta
+# Arushi Gupta
 
-🌍 Based in Munich, Germany &mdash; results-driven **DevOps Engineer** with experience in automating, deploying, and maintaining scalable, secure systems.
+**DevOps Engineer | Cloud Infrastructure & Platform Engineering**  
+Munich, Germany · English (C1) · German B1 (course completed)
 
----
+I build and operate cloud infrastructure and delivery pipelines. My work focuses on automating provisioning and releases, giving developers repeatable ways to deploy, and improving recovery when services fail.
 
-## 🚀 About Me
+## Selected public projects
 
-I'm passionate about building robust cloud infrastructure and streamlining workflows for development teams. My work spans designing automation strategies, implementing Infrastructure as Code, and driving secure, reliable operations in cloud environments. I thrive in agile, cross-functional teams and love architecting solutions that ensure both accuracy and accountability.
+- **[AWS infrastructure automation](https://github.com/arushi-gupta1111/terraform-aws-infrastructure-automation)** — Provisions an EC2 and VPC lab with reusable Terraform modules, GitHub Actions, OIDC authentication, and S3 remote state. The repository documents a tested workflow for detecting drift, applying a reviewed fix, and tearing down the environment.
+- **[GitOps delivery on Amazon EKS](https://github.com/arushi-gupta1111/eks-hello-world)** — Packages a Python service in Docker and publishes it to Amazon ECR using temporary AWS credentials through GitHub Actions and OIDC. Includes Kubernetes manifests and an Argo CD application definition for the deployment stage.
+- **[Automated Kubernetes setup and deployment](https://github.com/arushi-gupta1111/automated-infra-setup-kubernetes)** — Uses Ansible to set up Ubuntu, Jenkins, and Kubernetes. The Jenkins pipeline builds and publishes a Docker image and deploys the application with Helm.
 
----
+## Professional experience
 
-## 🛠️ Skills & Technologies
+- **LMU Munich · IT Consultant / Systems Engineer** — Supported Linux and Windows servers, investigated incidents, and maintained infrastructure and recovery documentation.
+- **Accenture · DevOps Engineer** — Integrated Terraform, GitHub Actions, and Argo CD for AWS deployments, reducing release cycle time by **40%**. Led incident management and root cause analysis for critical client applications. Monitoring and observability improvements reduced mean time to recovery by **40%**.
+- **HCLTech · Software Analyst DevOps** — Maintained Jenkins build and deployment pipelines and automated Azure deployment and patching tasks with Python, Bash, and PowerShell.
 
-- **Cloud Platforms:** GCP, AWS, Microsoft Azure  
-- **Containers & Orchestration:** Docker, Kubernetes  
-- **Infrastructure as Code:** Terraform, Ansible  
-- **CI/CD & Automation:** Jenkins, GitHub Actions, Runbook Automation  
-- **Configuration Management:** SCCM, Puppet  
-- **Secrets Management:** HashiCorp Vault  
-- **Scripting:** Python, Bash, PowerShell  
-- **Monitoring & Management:** Jira, Confluence, ServiceNow  
-- **Operating Systems:** RHEL, CentOS, OpenSUSE, Ubuntu, Debian, Windows Server  
-- **Version Control:** Git, GitHub  
-- **Database:** SQL, MongoDB  
-- **Office Tools:** Microsoft Office365 (Outlook, Word, Excel, PowerPoint, Teams)  
+## What I work on
 
----
+- **Cloud and infrastructure as code** — AWS, Azure, Google Cloud, Terraform, and Ansible
+- **Delivery and orchestration** — Kubernetes, Docker, Helm, Argo CD, GitHub Actions, GitLab CI, and Jenkins
+- **Operations and automation** — Linux, Python, Bash, PowerShell, Prometheus, and incident response
 
-## 💡 What I Do
+## Education and certification
 
-- Architect and automate secure cloud infrastructure (GCP, AWS, Azure)
-- Implement Infrastructure as Code (Terraform, Ansible)
-- Build, deploy, and monitor CI/CD pipelines (Jenkins, GitHub Actions)
-- Lead business analysis and process optimization for DevOps solutions
-- Collaborate effectively in agile, multicultural, and virtual teams
+- B.Eng. in Informatik / Technische Informatik
+- Microsoft Certified: Azure Fundamentals (AZ-900)
 
----
+## Connect
 
-## 🌟 Highlight Project
-
-**End-to-End AWS EBS Volume Encryption Automation**  
-Led the automation of AWS EBS volume encryption using Python (Boto3), Ansible, Jenkins, and GitHub Actions. Integrated Customer Master Key (CMK), EC2 orchestration, and secure key handling via GitHub Actions Secrets to enforce a scalable, secure cloud infrastructure.
-
----
-
-## 🏸 Outside of Tech
-
-When I'm not working on cloud solutions, you'll find me on the badminton court or cycling around Munich!
-
----
-
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/arushi-gupta-07967b8b/)
-- 📧 Email: arushig15@gmail.com
-
----
-
-<!--
-Arushi Gupta | DevOps Engineer | AWS | Kubernetes | Terraform | Jenkins | Ansible | Munich, Germany
--->
+[LinkedIn](https://www.linkedin.com/in/arushi-gupta-07967b8b/) · [Email](mailto:arushig15@gmail.com)
